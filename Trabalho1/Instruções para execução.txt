@@ -1,0 +1,8 @@
+Instruções de Execução:
+# arquivo "Contas.xlsx" deve estar presente na raiz da pasta para poder ser encontrado pelo Visual Studio Code
+
+1 - Instalar o Python versão mais recente
+2 - (No Visual Studio Code) Criar um "Virtual Enviromente (venv)" utilizando a versão do Python instalada anteriormente (Atalho "Ctrl+Shift+P", procurar "Python: Create Enviroment" selecionar "venv" e escolher o Python instalado no computador
+3 - (No Terminal do Visual Studio Code) Instalar o pacote "pandas" através do comando:
+pip install pandas openpyxl
+4 - Executar o código
